@@ -74,11 +74,6 @@ The final report summarizes key insights, statistical findings, and model foreca
 Contributions are welcome! Please fork the repository and create a pull request with detailed information about your changes.
 
 
-## Contact
-For any questions or feedback, feel free to reach out:
-- **Email**: rafiqamar9@gmail.com
-- **Linkedin**:[Rafi Qamar](https://www.linkedin.com/in/rafi-qamar/)
-- **GitHub**: [RafiQamar](https://github.com/RafiQamar)
 
 ---
 Thank you for exploring this project!
